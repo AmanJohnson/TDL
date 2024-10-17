@@ -1,7 +1,9 @@
 /* styles.css */
 
 body {
-    font-family: 'Pacifico', cursive, Arial, sans-serif;
+    font-family: 'Pacifico', Arial, sans-serif;
+    font-weight: 900; 
+    font-style: normal;
     display: flex;
     align-items: center;
     justify-content: center;
